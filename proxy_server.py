@@ -289,5 +289,5 @@ class Server:
 
 if __name__ == "__main__":
     # Provide a list of ips and domains if necessary to add in blacklist. Websites need only the domains without 'www.' and '.com'
-    server = Server(['27.79.207.204'])
+    server = Server(['103.75.184.246'])
     server.start_server()
